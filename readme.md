@@ -3,3 +3,9 @@ Consegna:
 Preparate il file readme come visto stamattina in classe.
 
 ID: BIGINT | - AUTO_INCREMENT - PRIMARY_KEY (UNIQUE, NOT NULL)
+
+MODEL: CHAR(25) | UNIQUE - NOT NULL
+
+OWNER NAME : CHAR(25) | UNIQUE - NOT NULL
+
+OWNER SURNAME : CHAR(25) | UNIQUE - NOT NULL
